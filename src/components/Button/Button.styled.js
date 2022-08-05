@@ -13,6 +13,3 @@ export const ButtonStyled = styled.button`
     background-color: #9757d3;
   }
 `;
-
-// Відео Репети про те, що стилізовані компоненти - це звичайні React компоненти
-// https://youtu.be/Itl8A6g4p4Y?t=2284
